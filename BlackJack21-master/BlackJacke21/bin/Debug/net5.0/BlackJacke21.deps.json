@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlackJacke21/1.0.0": {
+        "runtime": {
+          "BlackJacke21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackJacke21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

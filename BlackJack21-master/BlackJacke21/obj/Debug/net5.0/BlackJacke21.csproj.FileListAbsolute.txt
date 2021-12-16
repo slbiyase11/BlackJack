@@ -1,0 +1,36 @@
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\bin\Debug\net5.0\BlackJacke21.deps.json
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\bin\Debug\net5.0\BlackJacke21.dll
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\bin\Debug\net5.0\ref\BlackJacke21.dll
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\bin\Debug\net5.0\BlackJacke21.pdb
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfoInputs.cache
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfo.cs
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.CoreCompileInputs.cache
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.dll
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\ref\BlackJacke21.dll
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.pdb
+C:\Users\Gomba Ndadzibaya\source\repos\BlackJacke21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.AssemblyReference.cache
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\bin\Debug\net5.0\BlackJacke21.deps.json
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\bin\Debug\net5.0\BlackJacke21.dll
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\bin\Debug\net5.0\ref\BlackJacke21.dll
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\bin\Debug\net5.0\BlackJacke21.pdb
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.AssemblyReference.cache
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfoInputs.cache
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfo.cs
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.CoreCompileInputs.cache
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.dll
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\ref\BlackJacke21.dll
+D:\Dev-Repos\GitHub\BlackJack21\BlackJacke21\obj\Debug\net5.0\BlackJacke21.pdb
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\BlackJacke21.deps.json
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\BlackJacke21.dll
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\ref\BlackJacke21.dll
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\BlackJacke21.pdb
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.AssemblyReference.cache
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfoInputs.cache
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfo.cs
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.CoreCompileInputs.cache
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.dll
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\ref\BlackJacke21.dll
+C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.pdb
