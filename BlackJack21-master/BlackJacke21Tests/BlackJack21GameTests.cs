@@ -152,5 +152,20 @@ namespace BlackJacke21Tests
             Assert.AreEqual("Player Won", result);
         }
 
+        [Test]
+        public void when_player_cards_is_less_than_twenty_one_but_greater_than_dealer_cards_player_wins()
+        {
+            // Arrange
+            var cardInput = new List<string>() { "King of Spades", "Nine Of Diamonds", "One of Hearts" };
+
+            // Act
+            var sut = new BlackJack21Game();
+            var result = sut.PlayBlackJack(cardInput);
+
+            // Assert
+            Assert.AreEqual("Player Won", result);
+        }
+
+
     }
 }

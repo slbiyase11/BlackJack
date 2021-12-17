@@ -34,3 +34,15 @@ C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJ
 C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.dll
 C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\ref\BlackJacke21.dll
 C:\Users\SaziB\Documents\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.pdb
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\BlackJacke21.deps.json
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\BlackJacke21.dll
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\ref\BlackJacke21.dll
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\bin\Debug\net5.0\BlackJacke21.pdb
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.AssemblyReference.cache
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfoInputs.cache
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.AssemblyInfo.cs
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.csproj.CoreCompileInputs.cache
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.dll
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\ref\BlackJacke21.dll
+C:\Users\SaziB\source\New folder\BlackJack21-master\BlackJacke21\obj\Debug\net5.0\BlackJacke21.pdb

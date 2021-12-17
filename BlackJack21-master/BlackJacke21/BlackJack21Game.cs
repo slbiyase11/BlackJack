@@ -16,7 +16,8 @@ namespace BlackJacke21
 
             var hasAce = DoesPlayersCardListHaveAces(cardInput);
 
-            if (cardInput.Count() >= 5 && playerCardValue < 21)
+
+            if ((cardInput.Count() >= 5 && playerCardValue < 21) || (playerCardValue < 21 && playerCardValue > getDealersCardsValue) )
             {
                 result = "Player Won";
             }
